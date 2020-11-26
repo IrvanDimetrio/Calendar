@@ -6,7 +6,7 @@ Di Program Kalender ini kita bisa mengetahui Kalender Bulanan, Kalender Tahunan,
 
 Disini saya menggunakan Pycharm dengan Python 2.7
 
-#Output
+# Output
 
 ![kalender-1](https://user-images.githubusercontent.com/52452132/100354116-35871a80-3022-11eb-9d3b-7205d04bfa4d.png)
 
